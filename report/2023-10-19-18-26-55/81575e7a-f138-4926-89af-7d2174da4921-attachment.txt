@@ -1,0 +1,3 @@
+[32mINFO    [0m mylogger:file_processing.py:25 申请查询页
+[32mINFO    [0m mylogger:shenqingchaxun.py:18 申请查询页
+[35mDEBUG   [0m mylogger:file_processing.py:60 申请件状态

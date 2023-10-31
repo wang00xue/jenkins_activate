@@ -1,0 +1,2 @@
+[32mINFO    [0m mylogger:file_processing.py:25 申请查询页
+[32mINFO    [0m mylogger:cuowuduilie.py:19 错误队列
