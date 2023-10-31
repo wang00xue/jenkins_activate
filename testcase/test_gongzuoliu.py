@@ -26,8 +26,8 @@ import subprocess
 category_data = [
     # (subprocess.getoutput(['python', r'C:\project\PycharmProjects\UI自动化学习\project\main.py'])[:-1],'0'),
     # (tiao_ma2[:-1],'50000'),
-    ('202308311117438','50000'),
-    # ('202308281163252','50000'),
+    # ('202308311117438','50000'),
+    ('202308281163252','50000'),
 ]
 @pytest.mark.parametrize('tiaoma,ed_a', category_data)
 def test_gongzuoliu(tiaoma,ed_a):
