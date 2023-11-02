@@ -39,6 +39,7 @@ if __name__=='__main__':
     directory_time = time.strftime("%Y-%m-%d-%H-%S-%M",time.localtime(time.time()))   
     pytest.main(['--alluredir','report\%s'%directory_time,r'C:\project\Activate\testcase'])
 
+    
     # directory_time = time.strftime("%Y-%m-%d-%H-%S-%M",time.localtime(time.time()))       
     # pytest.main(['--alluredir','report\%s'%directory_time,r'C:\project\Activate\testcase\test_gongzuoliu.py'])
     # # 出测试报告
